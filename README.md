@@ -5,7 +5,7 @@
 This project is part of the Vrit Technologies internship selection process and demonstrates my ability to create a visually appealing and interactive web application using modern web development practices. The application showcases a carousel of cards with responsive and dynamic visual effects.
 
 ## Live Demo
-A live demo of the project can be found [here](https://www.google.com/).
+A live demo of the project can be found [here](https://vrit-technologies-frontend-internship-task-a-xv9a.vercel.app/).
 
 ---
 
