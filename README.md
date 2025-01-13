@@ -49,7 +49,7 @@ Ensure you have the following installed on your system:
 ### Steps to Run the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Vrit-Technologies-Frontend-Internship-Task-A.git
+   git clone https://github.com/alexbytesback/Vrit-Technologies-Frontend-Internship-Task-A.git
    ```
 
 2. Navigate to the project directory:
